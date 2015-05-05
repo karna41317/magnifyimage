@@ -1,0 +1,1 @@
+magnify location on image.
